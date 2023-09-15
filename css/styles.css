@@ -47,7 +47,7 @@ text-transform: uppercase;
     color: #404BBF;
 }
 
-.geader-address {
+.header-address {
     font-style: normal;
 }
 
@@ -94,7 +94,7 @@ text-transform: uppercase;
 
 .business-btn:hover,
 .business-btn:focus {
-    background: #404BBF;
+    background-color: #404BBF;
     cursor: pointer;
 }
 
